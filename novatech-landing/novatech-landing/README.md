@@ -1,6 +1,5 @@
 # NovaTech — Landing Page (React + Tailwind + Framer Motion)
 
-Projeto de front-end para portfólio: landing page clara, moderna e responsiva com formulário de contato (simulado localmente via localStorage).
 
 ## Como usar
 1. Instalar dependências:
